@@ -7,6 +7,9 @@ Version: 4.9.0
   - Updated all outdated third party vendor libraries to their latest versions
   - Improved PHP Email From library to ignore server header responses like 409
 
+Version: 4.8.1
+  - Fixed the counters issue
+
 Version: 4.8.0
   - Updated Bootstrap to version 5.2.0
   - Updated all outdated third party vendor libraries to their latest versions
@@ -64,13 +67,10 @@ Version: 2.2.0
 Version: 2.1.0
   - Updated Bootstrap to version 4.5.0
   - Updated the PHP Email Form library to version 2.0 with reCaptcha support
-  - Added portfolio-details.html template
+  - Aded inner-page.html tempalte
   - Added smooth scroll on page load with hash links in the url
   - Updated all outdated third party vendor libraries to their latest versions
   - Other small fixes and improvements
-  
-Version: 2.0.1
-  - The typed items in the hero/intro section can now be set with editing the index.html instead of editing the main.js file
   
 Version: 2.0.0
   - The template was rebuilt from scratch with the latest Bootstrap version (4.4.1)
